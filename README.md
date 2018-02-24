@@ -1,26 +1,26 @@
-#RailGraph
+<center> # RailGraph </center>
 ___
 ### Добро пожаловать, заблудший странник! Сегодня мы расскажем тебе, как работает наше великолепное приложение !
 ___
 ### Оглавление:
 
 * [Главное меню](#newmain)
- * [Rules](#rules)
- * [ScoreBoard](#scoreboard)
- * [About](#about)
- * [SinglePlay](#game)
+  * [Rules](#rules)
+  * [ScoreBoard](#scoreboard)
+  * [About](#about)
+  * [SinglePlay](#game)
 * [Главное меню авторизованного пользователя](#main)
- * [Rules](#rules)
- * [ScoreBoard](#scoreboard)
- * [About](#about)
- * [SinglePlay](#game)
- * [Profile](#profile)
-  * [Profile Edit](#profileEdit)
- * [Play with stranger](#stranger)
- * [Play with friend](#friend)
-  * [Invite link](#friend)
-   * [authorized friend](#friends1)
-   * [unauthorized](#friends2)
+  * [Rules](#rules)
+  * [ScoreBoard](#scoreboard)
+  * [About](#about)
+  * [SinglePlay](#game)
+  * [Profile](#profile)
+    * [Profile Edit](#profileEdit)
+  * [Play with stranger](#stranger)
+  * [Play with friend](#friend)
+    * [Invite link](#friend)
+      * [authorized friend](#friends1)
+      * [unauthorized](#friends2)
 ___
 ![Pokemon]( http://m.gifmania.ru/Animated-Gifs-Anime-Manga/Animations-Pokemon/Images-Ash-Brock-Misty/Ash-Brock-Misty-14748.gif)
 ___
