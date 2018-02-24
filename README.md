@@ -1,3 +1,4 @@
+![Pokemon]( http://m.gifmania.ru/Animated-Gifs-Anime-Manga/Animations-Pokemon/Images-Ash-Brock-Misty/Ash-Brock-Misty-14748.gif)
 ## Переходите по ссылке и попадаете на главную страницу '/'
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/newDisplayMain.jpg "Main menu")
 ___
@@ -47,7 +48,8 @@ ___
 ### Он нажимает [Go to menu](#main), где нажимает на кнопку rules внизу страницы!
 ![rules](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/rules.jpg "rules")
 ___
-## <p style="color:red"> Поняли правила? Зарегистрировались? </p>
+## Поняли правила? Зарегистрировались?
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 
 
 
