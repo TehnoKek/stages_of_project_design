@@ -13,7 +13,7 @@ ___
 ![scoreboard](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ScoreBoard.jpg "scoreboard")
 ___
 ## Заходим в свой профиль нажимая на ваш ник внизу страницы в главном меню 
-###### :raising_hand: Вашу фотографию можно бдет изменить кликнув на нее, не волнуйтесь! 
+###### :raising_hand: Вашу фотографию можно будет изменить кликнув на нее, не волнуйтесь! 
 ![profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/userProfile.jpg "profile")
 ___
 ## Если мы хотим что-то изменить в своем профиле, то мы кликаем edit profile и появляется вот-такое меню
@@ -25,9 +25,24 @@ ___
 ###### Когда соперник подгрузится, мы нажимаем ready, и когда соперник будет готов, мы отправляемся в игру
 ![play with stranger](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/playWithRandomUser.jpg "play with stranger")
 ___
-## Нам надоело ждать, нажимаем Exit [главное меню](#main) и нажимаем play with friend
+## Нам надоело ждать, нажимаем Exit , нас отправляют в [главное меню](#main) и нажимаем play with friend
 ######  P.S. Игра со своим знакомым, приятелем
+#### Нам дается специальная ссылка, по которой мы можем пригласить друга в игру
 ![play with friend](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/multWithFriends.jpg "play with friend")
+___
+## И так, друзья делятся на два типа :squirrel: :
+⋅⋅* [Авторизованные :sunglasses: ](#friends1)
+..* [Неавторизованные :expressionless: ](#friends2)
+___
+<a name="friends1"></a>
+## Авторизованные друзья видят страницу так же, как ее видим мы:
+![play with friend1](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/multiplayer.jpg "play with friend1")
+___
+<a name="friends2"></a> 
+## Неавторизованные друзья должны придумать себе прозвище для игры, которое потом будет отображаться в таблице рекордов
+#### Всегда хотя бы один из игроков мультиплеера должен быть авторизован
+![play with friend2](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/playWithAnonymous.jpg "play with friend2")
+
 
 
 
