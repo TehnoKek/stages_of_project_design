@@ -1,7 +1,7 @@
 ## Переходите по ссылке и попадаете на главную страницу '/'
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/newDisplayMain.jpg "Main menu")
 ___
-## Авторизуетесь и опять попадаете на главную страницу {#header1}
+## Авторизуетесь и опять попадаете на главную страницу ## {#header1}
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/displayOfAuthUser.jpg "Main menu")
 ___
 ## Хотим узнать больше о приложении и нажимаем about
