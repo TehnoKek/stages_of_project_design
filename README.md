@@ -11,7 +11,14 @@ ___
 ###### :+1: если вы не зарегистрированы, ваш ник будет невиден в меню 
 ![scoreboard](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ScoreBoard.jpg "scoreboard")
 ___
-## Заходим в свой профиль
+## Заходим в свой профиль нажимая на ваш ник внизу страницы в главном меню 
+###### :raising_hand: Вашу фотографию можно бдет изменить кликнув на нее, не волнуйтесь! 
+![profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/userProfile.jpg "profile")
+___
+## Если мы хотим что-то изменить в своем профиле, то мы кликаем edit profile и появляется вот-такое меню
+###### Мы нажимаем на элемент, который хотим изменить, и появляется небольшое меню редактирование снизу от вашей информации
+![edit profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ProfileEditPage.jpg "edit profile")
+
 
 
 
