@@ -49,7 +49,13 @@ ___
 ![rules](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/rules.jpg "rules")
 ___
 ## Поняли правила? Зарегистрировались?
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+### Вы великолепны, поздравляем!!!
+![good boy](http://borkborkiamdoggo.com/wp-content/uploads/2016/12/zero-hecks-given-1.jpg "good boy")
+___
+## Так как же выглядит геймплей нашей игры?
+![gameplay](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/game/gameModel.jpg"rules)
+___
+## Спасибо за внимание!
 
 
 
