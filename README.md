@@ -1,3 +1,7 @@
+# Добро пожаловать, заблудший странник! Сегодня мы расскажем тебе, как работает наше великолепное приложение RailGraph!
+___
+### Оглавление:
+___
 ![Pokemon]( http://m.gifmania.ru/Animated-Gifs-Anime-Manga/Animations-Pokemon/Images-Ash-Brock-Misty/Ash-Brock-Misty-14748.gif)
 ## Переходите по ссылке и попадаете на главную страницу '/'
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/newDisplayMain.jpg "Main menu")
@@ -53,7 +57,7 @@ ___
 ![good boy](http://borkborkiamdoggo.com/wp-content/uploads/2016/12/zero-hecks-given-1.jpg "good boy")
 ___
 ## Так как же выглядит геймплей нашей игры?
-![gameplay](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/game/gameModel.jpg"rules)
+![gameplay](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/game/gameModel.jpg)
 ___
 ## Спасибо за внимание!
 
