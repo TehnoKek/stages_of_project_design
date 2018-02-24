@@ -9,10 +9,10 @@ ___
 ![about](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/about.jpg "about")
 ___
 ## Свайпом вверх возвращаемся в [главное меню](#main) и заходим в раздел рекордов, чтобы увидеть своего друга там
-###### :+1: если вы не зарегистрированы, ваш ник будет невиден в меню 
+###### :+1: если вы не зарегистрированы, ваш ник не будет виден в меню 
 ![scoreboard](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ScoreBoard.jpg "scoreboard")
 ___
-## Заходим в свой профиль нажимая на ваш ник внизу страницы в главном меню 
+## Заходим в свой профиль нажимая на ваш ник-нейм внизу страницы в главном меню 
 ###### :raising_hand: Вашу фотографию можно будет изменить кликнув на нее, не волнуйтесь! 
 ![profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/userProfile.jpg "profile")
 ___
@@ -31,8 +31,8 @@ ___
 ![play with friend](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/multWithFriends.jpg "play with friend")
 ___
 ## И так, друзья делятся на два типа :squirrel: :
-⋅⋅* [Авторизованные :sunglasses: ](#friends1)
-..* [Неавторизованные :expressionless: ](#friends2)
+* [Авторизованные :sunglasses: ](#friends1)
+* [Неавторизованные :expressionless: ](#friends2)
 ___
 <a name="friends1"></a>
 ## Авторизованные друзья видят страницу так же, как ее видим мы:
@@ -42,6 +42,11 @@ ___
 ## Неавторизованные друзья должны придумать себе прозвище для игры, которое потом будет отображаться в таблице рекордов
 #### Всегда хотя бы один из игроков мультиплеера должен быть авторизован
 ![play with friend2](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/playWithAnonymous.jpg "play with friend2")
+___
+## Игрок первый раз на нашем сайте, и он не знает правила игры? Что ему делать?
+### Он нажимает [Go to menu](#main), где нажимает на кнопку rules вниху страницы!
+![rules](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/rules.jpg "rules")
+___
 
 
 
