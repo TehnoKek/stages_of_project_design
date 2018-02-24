@@ -44,9 +44,10 @@ ___
 ![play with friend2](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/playWithAnonymous.jpg "play with friend2")
 ___
 ## Игрок первый раз на нашем сайте, и он не знает правила игры? Что ему делать?
-### Он нажимает [Go to menu](#main), где нажимает на кнопку rules вниху страницы!
+### Он нажимает [Go to menu](#main), где нажимает на кнопку rules внизу страницы!
 ![rules](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/rules.jpg "rules")
 ___
+## <p style="color:red"> Поняли правила? Зарегистрировались? </p>
 
 
 
