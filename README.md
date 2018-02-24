@@ -1,7 +1,7 @@
 ## Переходите по ссылке и попадаете на главную страницу '/'
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/newDisplayMain.jpg "Main menu")
 ___
-## Авторизуетесь и опять попадаете на главную страницу
+## Авторизуетесь и опять попадаете на главную страницу {#header1}
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/displayOfAuthUser.jpg "Main menu")
 ___
 ## Хотим узнать больше о приложении и нажимаем about
@@ -18,6 +18,8 @@ ___
 ## Если мы хотим что-то изменить в своем профиле, то мы кликаем edit profile и появляется вот-такое меню
 ###### Мы нажимаем на элемент, который хотим изменить, и появляется небольшое меню редактирование снизу от вашей информации
 ![edit profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ProfileEditPage.jpg "edit profile")
+___
+## Свайпом вверх опять возвращаемся в [Link back to header 1](#header1)
 
 
 
