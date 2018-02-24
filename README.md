@@ -1,7 +1,7 @@
 ## Переходите по ссылке и попадаете на главную страницу '/'
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/newDisplayMain.jpg "Main menu")
 ___
-## Авторизуетесь и опять попадаете на главную страницу # {#header1}
+<a name="abcd"></a> ## Авторизуетесь и опять попадаете на главную страницу
 ![main menu](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/displayOfAuthUser.jpg "Main menu")
 ___
 ## Хотим узнать больше о приложении и нажимаем about
@@ -19,19 +19,8 @@ ___
 ###### Мы нажимаем на элемент, который хотим изменить, и появляется небольшое меню редактирование снизу от вашей информации
 ![edit profile](https://github.com/TehnoKek/stages_of_project_design/blob/master/conceptual%20model/SPA_application/ProfileEditPage.jpg "edit profile")
 ___
-## Свайпом вверх опять возвращаемся в [главное меню](#header1)
+## Свайпом вверх опять возвращаемся в [главное меню](#abcd)
 ___
-Alternatively you could restrict it to headers like
-
-header text here
-========================= {#anchorName}
-or
-
-#  header text here # {#anchorName}
-Elsewhere in the document you can create a jump point to the anchor like
-
-[test](#anchorName)
-
 
 
 
